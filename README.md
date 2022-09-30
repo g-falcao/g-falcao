@@ -1,4 +1,4 @@
-## Oi! Eu sou a Giovanna Falcão, tenho 18 anos e sou estudante no Instituto Federal de Educação Ciência e Tecnologia de São Paulo, cursando o Ensino Médio Integrado ao Técnico em Informática. 
+## Oi! Eu sou a Giovanna Falcão, tenho 18 anos e sou estudante no Instituto Federal de Educação Ciência e Tecnologia de São Paulo, cursando o Ensino Médio Integrado ao Técnico em Informática! :)
 <div align="center">
   <a href="https://github.com/g-falcao">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=g-falcao&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
